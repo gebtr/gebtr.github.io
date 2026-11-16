@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gebtr.github.io/sitemap.xml
